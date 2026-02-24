@@ -1,0 +1,22 @@
+{
+  "name": "Ruta 20 — Eje Cafetero",
+  "short_name": "Ruta 20",
+  "description": "Paquetes turísticos al Eje Cafetero colombiano",
+  "start_url": "/ruta20/",
+  "display": "standalone",
+  "background_color": "#050a20",
+  "theme_color": "#6b21a8",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/ruta20/public/images/logo.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/ruta20/public/images/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
