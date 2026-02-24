@@ -5,7 +5,6 @@
 
 :{$PORT} {
     root * /app
-    index index.php
     php_server
     file_server
 }
